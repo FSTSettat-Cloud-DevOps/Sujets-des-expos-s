@@ -30,3 +30,12 @@ Chaque groupe soumet **3 sujets classés par ordre de préférence** (Sujet 1, S
   * Les groupes non retenus sur leur Sujet 1 se voient attribuer automatiquement leur Sujet 2 ou Sujet 3.
 
 ---
+
+## 📅 3. Date de Début des Présentations
+
+> 🚀 **Les présentations débuteront le lundi 16/11/2026.**
+
+Tous les groupes doivent avoir finalisé la préparation de leur exposé avant cette date et être prêts à présenter leur travail selon le planning qui sera communiqué ultérieurement.
+
+---
+---
