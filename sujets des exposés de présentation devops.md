@@ -12,7 +12,7 @@
 
 ---
 
-## SECTION 1 : Chapitre 6 — Introduction au DevOps
+## SECTION 1 :  Introduction au DevOps
 
 ### Sujet 1 : Du Document Word au Pipeline CI/CD — Transformer un Déploiement Chaotique en Processus 100% Automatisé
 
@@ -60,7 +60,7 @@
 
 ---
 
-## SECTION 2 : Chapitre 8 — CI/CD : Intégration et Déploiement Continus
+## SECTION 2 :  CI/CD : Intégration et Déploiement Continus
 
 ### Sujet 3 : Continuous Delivery vs Continuous Deployment — Choisir le Bon Degré d'Automatisation pour une Application Critique
 
@@ -109,7 +109,7 @@
 
 ---
 
-## SECTION 3 : Chapitre 10 — Monitoring, Sécurité et Projet DevOps
+## SECTION 3 :  Monitoring, Sécurité et Projet DevOps
 
 ### Sujet 5 : Pilotage de la Disponibilité Applicative — Du SLO/SLA à l'Implémentation de Prometheus & Grafana avec les Méthodes RED/USE
 
