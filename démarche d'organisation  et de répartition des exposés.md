@@ -23,10 +23,10 @@ Pour éviter les conflits et garantir une couverture équilibrée des 6 sujets, 
 ### Étape 2 : Choix des sujets  par priorité (Système de réservation)
 Chaque groupe soumet **3 sujets classés par ordre de préférence** (Sujet 1, Sujet 2, Sujet 3) parmi les 6 sujets proposés.
 
-### Étape 3 : Attribution équitable (Règle du tirage / premier arrivé)
+### Étape 3 : Attribution équitable (Règle du tirage)
 * **Limite maximale par sujet :** Aucun sujet ne peut être attribué à plus de **4 groupes**.
 * **Résolution des doublons :** 
-  * Si un sujet est demandé par plus de 4 groupes en "Sujet 1", l'attribution se fait soit par **tirage au sort**.
+  * Si un sujet est demandé par plus de 4 groupes en "Sujet 1", l'attribution se fait par **tirage au sort**.
   * Les groupes non retenus sur leur Sujet 1 se voient attribuer automatiquement leur Sujet 2 ou Sujet 3.
 
 ---
